@@ -1,0 +1,16 @@
+{
+  "name": "unknownfacts",
+  "version": "1.0.0",
+  "description": "a platform for sharing unknown or mysterious facts",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "default"
+  },
+  "author": "sai kiran",
+  "license": "ISC"
+}
