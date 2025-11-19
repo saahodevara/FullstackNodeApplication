@@ -5,12 +5,15 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start":"node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "default"
   },
   "author": "sai kiran",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sanitize-html": "^2.17.0"
+  }
 }
